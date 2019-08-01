@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cliky-game/static/css/main.2dfd8c61.chunk.css",
+    "main.js": "/cliky-game/static/js/main.ed67adfd.chunk.js",
+    "main.js.map": "/cliky-game/static/js/main.ed67adfd.chunk.js.map",
+    "runtime~main.js": "/cliky-game/static/js/runtime~main.c2a1ac9c.js",
+    "runtime~main.js.map": "/cliky-game/static/js/runtime~main.c2a1ac9c.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/cliky-game/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/cliky-game/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/cliky-game/index.html",
+    "precache-manifest.fe229c4b2da33cc2c015269255cf538f.js": "/cliky-game/precache-manifest.fe229c4b2da33cc2c015269255cf538f.js",
+    "service-worker.js": "/cliky-game/service-worker.js",
+    "static/css/main.2dfd8c61.chunk.css.map": "/cliky-game/static/css/main.2dfd8c61.chunk.css.map",
+    "static/media/Chandler.png": "/cliky-game/static/media/Chandler.9a6671f4.png",
+    "static/media/Gary.png": "/cliky-game/static/media/Gary.08409079.png",
+    "static/media/Gunther.png": "/cliky-game/static/media/Gunther.da8a201d.png",
+    "static/media/Jack Geller.png": "/cliky-game/static/media/Jack Geller.33fa83ee.png",
+    "static/media/Janice.png": "/cliky-game/static/media/Janice.4a0f7b92.png",
+    "static/media/Joey.png": "/cliky-game/static/media/Joey.c5e4e7a7.png",
+    "static/media/Judy Geller.png": "/cliky-game/static/media/Judy Geller.4e606f05.png",
+    "static/media/Monica.png": "/cliky-game/static/media/Monica.66a1138a.png",
+    "static/media/Paul.png": "/cliky-game/static/media/Paul.c69b5578.png",
+    "static/media/Phoebe.png": "/cliky-game/static/media/Phoebe.0efce8e9.png",
+    "static/media/Rachel.png": "/cliky-game/static/media/Rachel.7d9f9879.png",
+    "static/media/Ross.png": "/cliky-game/static/media/Ross.bede4385.png"
+  }
+}
