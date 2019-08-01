@@ -1,0 +1,14 @@
+.banner {
+  background-color: rgba(100, 219, 201, 0.612) !important;
+  height: 250px;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: rgb(11, 84, 71);
+  font-size: 18px;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 12 * (110vw - 250px) / 800);
+  }
+}
